@@ -3,8 +3,8 @@ import Auth0 from 'react-native-auth0';
 import {Button, View, TextInput, Modal, Text, Image} from 'react-native';
 
 const auth0 = new Auth0({
-  domain: 'andersonxavier.us.auth0.com',
-  clientId: 'rkfk40Upqb1R7Tb3uvpyEi9e6F3J8EJk',
+  domain: 'uhu',
+  clientId: 'uhu',
 });
 
 class Auth extends Component {
